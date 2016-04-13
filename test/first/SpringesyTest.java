@@ -45,6 +45,7 @@ public class SpringesyTest {
         Springesy instance = new Springesy();
         System.out.println(instance.justDoIt(25));
         assertEquals(50, instance.justDoIt(25));
+        
         //sd
         // TODO review the generated test code and remove the default call to fail.
       // fail("The test case is a prototype.");
